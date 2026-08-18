@@ -1,0 +1,8 @@
+Quarks provide many things as services: 
+        1) Website development
+        2) App development
+        3) SEO
+        4) ASO
+        5) Business automation
+        6) UI/UX
+        7) Social media handling
